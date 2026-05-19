@@ -10,6 +10,14 @@ For now it is just very optimised — you can render 200k triangles with a playe
 - Day/night cycle
 - Instanced rendering for large numbers of objects
 
+## Tech Stack
+
+- Vulkan
+- C++
+- GLSL
+- GLM
+- GLFW
+
 ## Screenshots
 
 Terrain with player collision:
@@ -23,14 +31,6 @@ Day cycle:
 Instanced cube rendering:
 
 ![Instanced cubes](https://github.com/SebaTheProgrammer/VulkanProject/assets/119673781/5dd30b59-c3fc-4f95-ab5a-4abea70d5d5b)
-
-## Tech Stack
-
-- Vulkan
-- C++
-- GLSL
-- GLM
-- GLFW
 
 ## Roadmap
 
