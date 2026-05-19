@@ -1,7 +1,7 @@
 # VulkanProject
 
 A Vulkan engine with physics and collisions.
-For now it is just very optimised — you can render 200k triangles with a player who has collision.
+For now it is just very optimised: you can render a 200k triangles map with a player who has collision at 120+ FPS.
 
 ## Features
 
