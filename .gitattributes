@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Third-party code, excluded from GitHub's language stats
+Project/SDL2-2.28.3/** linguist-vendored
+Project/stb_image.h linguist-vendored
+Project/tiny_obj_loader.h linguist-vendored
+Project/json.hpp linguist-vendored
